@@ -1,0 +1,19 @@
+{
+    "name": "martist/router",
+    "description": "路由",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "machuang",
+            "email": "1203580780@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "martist\\": "src/"
+        }
+    }
+}
